@@ -29,7 +29,7 @@ Welcome to my portfolio website! This project showcases my journey as a Computin
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/cassandraeoti/portfolio.git>
    ```
 2. Navigate to the project directory:
    ```bash
